@@ -1,0 +1,14 @@
+# 尚艺设计 (SyDesign) - Python 依赖
+# SyDesign Python Dependencies
+
+# 核心依赖
+# Core Dependencies
+flask>=2.3.0
+requests>=2.31.0
+python-dotenv>=1.0.0
+
+# 开发依赖
+# Development Dependencies
+pytest>=7.4.0
+black>=23.7.0
+flake8>=6.1.0
